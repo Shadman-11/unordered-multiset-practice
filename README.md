@@ -1,4 +1,4 @@
-# unordered-multiset-practice
+# Unordered-multiset-practice
 C++ STL unordered_multiset practice problems and solutions
 # Unordered Multiset Practice Problems
 
